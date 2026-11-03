@@ -23,11 +23,25 @@ One page, in this order:
    - Consultant Psychiatrist, Neuropsychiatry Centre, The Royal Melbourne Hospital
    - Clinical Trials Fellow (young-onset dementia), RMH Neurosciences
    - Visiting Consultant Psychiatrist, Ramsay Clinic Albert Road (including the ketamine clinic, stated factually only)
-   - Lecturer and Academic Coordinator, Department of Psychiatry, University of Melbourne; PhD candidate
+   - Research Fellow and Student Site Coordinator, Department of Psychiatry, University of Melbourne; PhD candidate
 4. **Clinical interests.** Neuropsychiatry, young-onset dementia, old age psychiatry, consultation-liaison psychiatry, treatment-resistant depression.
 5. **Research.** Blood biomarkers (NfL, GFAP, p-tau217) in psychiatric and neurodegenerative disorders, the MiND study, and the PhD topic, explained for non-experts.
-6. **Selected publications.** 5–6 highlights, plus links to Google Scholar and ORCID for the full list.
-7. **Selected awards and leadership.** A short list of the strongest items only.
+6. **Selected publications.** These six, plus links to Google Scholar and ORCID for the full list:
+   1. Kang et al. (2025) Plasma GFAP and NfL are elevated in bipolar disorder. *Bipolar Disorders*. (2025 Research Highlight)
+   2. Kang et al. (2025) NfL and GFAP in mood and anxiety disorders: systematic review and meta-analysis. *Brain, Behavior, and Immunity*.
+   3. Kang et al. (2025) Apathy and affective symptoms associated with elevated plasma NfL but not p-tau181 in Alzheimer's disease. *Alzheimer's & Dementia: DADM*.
+   4. Eratne, Kang et al. (2024) Plasma and CSF NfL distinguish neurodegenerative from primary psychiatric conditions in a clinical setting. *Alzheimer's & Dementia*.
+   5. Kang et al. (2023) Carer burden in early-onset Alzheimer's disease vs behavioural-variant FTD. *International Psychogeriatrics*.
+   6. Kang et al. (2025) Beyond black-box AI: interpretable hybrid systems for dementia care. *Alzheimer's & Dementia: DADM*.
+7. **Selected awards and leadership.** These six:
+   1. Dean's Award for Excellence in Graduate Research, University of Melbourne (2026)
+   2. Invited symposium speaker, biomarkers in psychiatry, World Congress of Psychiatry, Stockholm (2026)
+   3. Executive Committee (Communications Chair), Neuropsychiatric Syndromes PIA, Alzheimer's Association ISTAART (2026–)
+   4. AAIC ISTAART Ambassador (2025)
+   5. CINP Early Career Committee; Chair, CINP Research Fellowship Program (2024–)
+   6. RANZCP Faculty of Psychiatry of Old Age Trainee Prize (2023)
+   
+   No dollar figures for funding anywhere on the site.
 8. **Contact.** `matthew.kang1@unimelb.edu.au`, plus a clear statement: "I am not accepting new private patients." Profile links:
    - LinkedIn: https://www.linkedin.com/in/matthew-kang-22a99162/
    - Google Scholar: https://scholar.google.com/citations?user=s7fMjfYAAAAJ
@@ -62,7 +76,7 @@ Also required:
 - [x] Google Scholar profile URL
 - [x] ORCID iD / URL
 - [x] Professional photo: `images/matthew-kang.jpg` (560×560, hidden metadata removed)
-- [ ] Confirm which 5–6 publications and which awards to highlight (Claude can propose)
+- [x] Highlighted publications and awards confirmed
 - [ ] Optional: AHPRA registration number, for a register link
 
 ## Done when
