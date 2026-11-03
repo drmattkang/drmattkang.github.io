@@ -51,10 +51,11 @@ Also required:
 
 ## How it's built
 - Plain HTML and CSS: one `index.html` and one stylesheet. No frameworks, no build tools, no dependencies.
-- Hosted free on GitHub Pages at `<username>.github.io`. A custom domain can be added later without rebuilding.
+- Hosted free on GitHub Pages at `https://drmattkang.github.io` (GitHub account: `drmattkang`; project name: `drmattkang.github.io`). A custom domain can be added later without rebuilding.
 
 ## Still needed from Matthew
-- [ ] GitHub account username (see open question below)
+- [x] GitHub account username: `drmattkang`
+- [x] LinkedIn URL
 - [ ] Google Scholar profile URL
 - [ ] ORCID iD / URL
 - [ ] Professional photo
