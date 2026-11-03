@@ -82,7 +82,7 @@ li { margin-bottom: 0.75rem; }
 .more { margin-bottom: 0; }
 
 .awards li { display: flex; gap: 1rem; }
-.year { color: var(--muted); min-width: 3.5rem; flex-shrink: 0; }
+.year { color: var(--muted); min-width: 5.25rem; flex-shrink: 0; }
 
 .notice {
   background: var(--tag-bg);
