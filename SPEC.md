@@ -28,7 +28,7 @@ One page, in this order:
 5. **Research.** Blood biomarkers (NfL, GFAP, p-tau217) in psychiatric and neurodegenerative disorders, the MiND study, and the PhD topic, explained for non-experts.
 6. **Selected publications.** 5–6 highlights, plus links to Google Scholar and ORCID for the full list.
 7. **Selected awards and leadership.** A short list of the strongest items only.
-8. **Contact.** `matthew.kang1@unimelb.edu.au`, plus a clear statement: "I am not accepting new private patients."
+8. **Contact.** `matthew.kang1@unimelb.edu.au`, plus a clear statement: "I am not accepting new private patients." Profile links: LinkedIn (https://www.linkedin.com/in/matthew-kang-22a99162/), Google Scholar, and ORCID.
 
 Also required:
 - Works well on phones as well as computers.
